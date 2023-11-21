@@ -1,0 +1,16 @@
+{
+    "name": "gyan/crawler",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Crawler\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gyanendra Baghel",
+            "email": "gyanendrabaghel633@gmail.com"
+        }
+    ],
+    "require": {}
+}
